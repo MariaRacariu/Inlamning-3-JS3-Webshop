@@ -1,0 +1,8 @@
+.addToCartButton{
+    background: none;
+    border: none;
+}
+
+.addToCartButton i:hover{
+    cursor: pointer;
+}

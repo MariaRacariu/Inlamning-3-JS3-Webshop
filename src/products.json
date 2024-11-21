@@ -1,0 +1,72 @@
+[
+    {
+        "productID": "C001",
+        "name": "Classic White T-Shirt",
+        "description": "A comfortable and versatile white t-shirt made from 100% cotton.",
+        "price": 15.99,
+        "image": "./images/classic-white-t-shirt.jpg"
+    },
+    {
+        "productID": "C002",
+        "name": "Denim Jeans",
+        "description": "Slim-fit denim jeans with a classic five-pocket design.",
+        "price": 49.99,
+        "image": "./images/denim-jeans.jpg"
+    },
+    {
+        "productID": "C003",
+        "name": "Leather Jacket",
+        "description": "Premium black leather jacket with a modern cut and durable zippers.",
+        "price": 120.00,
+        "image": "./images/leather-jacket.jpg"
+    },
+    {
+        "productID": "C004",
+        "name": "Floral Summer Dress",
+        "description": "Lightweight summer dress with a vibrant floral pattern.",
+        "price": 35.50,
+        "image": "./images/floral-summer-dress.jpg"
+    },
+    {
+        "productID": "C005",
+        "name": "Hooded Sweatshirt",
+        "description": "Cozy hoodie made from a soft cotton-poly blend with a front pocket.",
+        "price": 29.99,
+        "image": "./images/hooded-sweatshirt.jpg"
+    },
+    {
+        "productID": "C006",
+        "name": "Sports Shorts",
+        "description": "Breathable sports shorts with moisture-wicking technology.",
+        "price": 20.00,
+        "image": "./images/sports-shorts.jpg"
+    },
+    {
+        "productID": "C007",
+        "name": "Wool Scarf",
+        "description": "Warm and stylish scarf made from 100% wool.",
+        "price": 18.75,
+        "image": "./images/wool-scarf.jpg"
+    },
+    {
+        "productID": "C008",
+        "name": "Running Shoes",
+        "description": "Lightweight running shoes with excellent cushioning and support.",
+        "price": 89.99,
+        "image": "./images/running-shoes.jpg"
+    },
+    {
+        "productID": "C009",
+        "name": "Baseball Cap",
+        "description": "Classic adjustable baseball cap with embroidered logo.",
+        "price": 12.50,
+        "image": "./images/baseball-cap.jpg"
+    },
+    {
+        "productID": "C010",
+        "name": "Formal Suit",
+        "description": "Elegant two-piece suit perfect for formal occasions.",
+        "price": 250.00,
+        "image": "./images/formal-suit.jpg"
+    }
+]

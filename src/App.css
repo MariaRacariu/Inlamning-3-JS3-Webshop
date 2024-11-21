@@ -1,0 +1,40 @@
+html{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0px;
+}
+
+#root{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    "header header"
+    "search cart"
+}
+
+
+.searchContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: header;
+    padding: 20px 0px 20px 0px;
+}
+
+.searchResultContainer{
+    grid-area: search;
+}
+
+.cartContainer{
+    grid-area: cart;
+}

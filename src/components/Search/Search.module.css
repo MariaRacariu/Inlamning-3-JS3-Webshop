@@ -1,0 +1,26 @@
+.searchInput{
+    margin: 0px 20px 0px 10px;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #000;
+    height: 30px;
+    font-size: 16px;
+}
+
+.searchInput:focus{
+   outline: none;
+}
+
+.searchButton{
+    height: 40px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    letter-spacing: 3px;
+    padding: 10px;
+}
+
+.searchHeading{
+    padding: 20px;
+    margin: 0px;
+}
